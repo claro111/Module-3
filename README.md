@@ -1,6 +1,5 @@
 # Module 3
 
-This project demonstrates the use of require(), assert(), and revert() statements in Solidity smart contracts.
 
 ## Description
 
